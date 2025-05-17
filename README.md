@@ -1,4 +1,4 @@
--Read Me
+
 This dataset comprises 981 accessions characterized by 10 morphological traits, curated and conserved by the AfricaRice Genebank as of September 2021. The data were originally downloaded from Genesys-PGR, an open-source platform for plant genetic resources.
 Species Included Oryza sativa L. and Oryza glaberrima Steud.
 

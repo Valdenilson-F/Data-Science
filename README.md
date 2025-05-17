@@ -12,7 +12,9 @@ Ten morphological/agronomic traits were evaluated (see documentation or dataset 
 -Contributors:
 
 Data Manager: Tohoun Romeo (AfricaRice Center)
+
 Data Collector: Sedjro Bienvenu Kpeki (AfricaRice Center)
+
 Data Curator: Marie Noelle Ndjiondjop (AfricaRice Center)
 
 -Citation:
@@ -22,6 +24,9 @@ If you use this dataset in your work, please cite the source accordingly and ack
  For questions, suggestions or collaborations, please contact:
 
 Valdenilson Felipe P. da Silva
+
 Universidade Federal de São Carlos
+
 Email: Valdenilsonfps@estudante.ufscar.br
+
 GitHub: Valdenilson-F
